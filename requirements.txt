@@ -1,0 +1,9 @@
+numpy>=2.0
+pandas
+xarray
+matplotlib
+scikit-learn
+copernicusmarine>=2.0
+xmhw @ git+https://github.com/coecms/xmhw.git
+jupyterlab
+netCDF4

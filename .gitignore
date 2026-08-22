@@ -1,0 +1,22 @@
+# Δεδομένα (μεγάλα αρχεία .nc - δεν ανεβαίνουν στο GitHub)
+data/
+*.nc
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Παλιά/δοκιμαστικά scripts (ενσωματώθηκαν στο ocean_analysis.ipynb)
+old_scripts/
+
+# PyCharm
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
