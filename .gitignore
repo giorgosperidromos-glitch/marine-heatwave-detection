@@ -1,5 +1,5 @@
 # Δεδομένα (μεγάλα αρχεία .nc - δεν ανεβαίνουν στο GitHub)
-data/
+data_old/
 *.nc
 
 # Python
